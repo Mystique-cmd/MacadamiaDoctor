@@ -2,7 +2,7 @@
 
 This project is a simple knowledge-based system for diagnosing diseases and pests in macadamia trees. It provides a web-based graphical user interface (GUI) built with Streamlit to help users identify potential problems based on observed symptoms.
 
- ##Link to live app
+ ## Link to live app
  
 [https://macadamiadoctor-gma5lufrokb3vtaewsecrk.streamlit.app/]
 
